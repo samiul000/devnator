@@ -1,4 +1,5 @@
 ---
+name: devnator
 description: "Generate a complete narrated video production package (10 topic ideas, a continuous narration script, an ElevenLabs voiceover, a beat-by-beat breakdown, one image prompt per beat as a bulk-ready .txt file, a universal video-animation prompt, and thumbnail prompts) for either a software TUTORIAL or a PROJECT INTRODUCTION built from a README or docs. Trigger this whenever the user invokes /devnator, asks to turn a README, docs, or a tutorial topic into a video, asks for a video script with beats and image prompts, or asks to storyboard a product/project intro or how-to video. Runs as a strict state machine, exactly one state at a time, always stop and wait for the user's reply before continuing to the next state. Do not skip states or run multiple states in one turn."
 ---
 
